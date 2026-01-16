@@ -26,4 +26,5 @@ Visit Python Notebook attahced for detailed implementation.
 
 <img width="1340" height="1000" alt="multi_step_Prediction" src="https://github.com/user-attachments/assets/7500d385-024d-4631-bec2-cbb45cbc5eb9" />
 
+<img width="1340" height="1000" alt="newplot (17)" src="https://github.com/user-attachments/assets/b5b44c9b-e0eb-4693-9eb9-400bf67048ce" />
 
